@@ -25,14 +25,5 @@ For this image captioning problem we have used Flikr dataset. The data has 5 cap
 pip install -r requirement.txt
 ```
 
-### Trained Model Weights are Attached also 
-See the Model section
-
-
-
-```python
-
-```
-
 ## For Data set
 https://www.kaggle.com/datasets/adityajn105/flickr8k/code?resource=download
