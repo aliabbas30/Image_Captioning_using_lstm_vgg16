@@ -1,6 +1,5 @@
 ## Image Captioning Using LSTM and VGG16 flow
 
-![miage.PNG](attachment:miage.PNG)
 
 ## Used Libraries
 
@@ -14,6 +13,7 @@
 - [Matplotlib](https://matplotlib.org/)
 - [PIL (Pillow)](https://pillow.readthedocs.io/en/stable/)
 - [NLTK](https://www.nltk.org/)
+<img width="424" alt="image (2)" src="https://github.com/aliabbas30/Image_Captioning_using_lstm_vgg16/assets/102746791/d2699c97-87dc-440f-a30b-b28042f81111">
 
 
 
@@ -33,3 +33,6 @@ See the Model section
 ```python
 
 ```
+
+## For Data set
+https://www.kaggle.com/datasets/adityajn105/flickr8k/code?resource=download
