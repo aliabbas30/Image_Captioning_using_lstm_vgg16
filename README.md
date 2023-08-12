@@ -13,6 +13,8 @@
 - [Matplotlib](https://matplotlib.org/)
 - [PIL (Pillow)](https://pillow.readthedocs.io/en/stable/)
 - [NLTK](https://www.nltk.org/)
+
+  ## Code Flow
 <img width="424" alt="image (2)" src="https://github.com/aliabbas30/Image_Captioning_using_lstm_vgg16/assets/102746791/d2699c97-87dc-440f-a30b-b28042f81111">
 
 
